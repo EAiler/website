@@ -27,20 +27,52 @@ sections:
         - title: Doctoral Candidate
           company: HelmholtzAI, Kilbertus Group
           company_url: 'https://www.helmholtz.ai/themenmenue/our-research/research-groups/kilbertus-group/index.html'
-          #company_logo: helmholtzai
+          # company_logo: helmholtzai
           location: Munich
           date_start: '2020-11-01'
           date_end: ''
           description:
               Working on causal inference in general.
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Data Scientist and Machine Learning Researcher
+          company: Steering Lab (Horváth&Partners)
           company_url: ''
-          company_logo: org-x
-          location: California
+          #company_logo: steering lab
+          location: Munich
+          date_start: '2019-03-01'
+          date_end: '2020-10-31'
+          description: Unsupervised time series classification and prediction.
+          - title: Quantitative Financial Analyst
+          company: risklab (Allianz Global Investors)
+          company_url: ''
+          #company_logo: risklab
+          location: Munich
+          date_start: '2016-10-01'
+          date_end: '2019-02-28'
+          description: Automation of asset allocation.
+          - title: Research Intern
+          company: MEAG
+          company_url: ''
+          #company_logo: meag
+          location: Munich
           date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_end: '2016-09-30'
+          description: Research on Value-at-Risk Decomposition and Sensitivities.
+          - title: Intern
+          company: risklab (Horváth&Partners)
+          company_url: ''
+          #company_logo: risklab
+          location: Munich
+          date_start: '2015-10-01'
+          date_end: '2015-12-31'
+          #description: Risk-Management Overlay.
+          - title: Intern
+          company: PriceWaterhouseCoopers
+          company_url: ''
+          #company_logo: pwc
+          location: Munich
+          date_start: '2015-04-01'
+          date_end: '2015-05-31'
+          description: Risk-Management Overlay.
     design:
       columns: '2'
   - block: accomplishments
