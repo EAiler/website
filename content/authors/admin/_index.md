@@ -38,6 +38,6 @@ title: Elisabeth Ailer
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am a PhD candidate at HelmholtzAI in Munich, under the supervision of Niki Kilbertus. \
+\
+Formerly working in the industry, I felt that machine learning is still missing \*something\*. My motivation stems from bringing a causal view point to machine learning in general. More precisely, my research interests include questions around cause-effect estimation, but also how experiments can help to inform our algorithms and how the definition of causality might bring us closer to a proper understanding of the world.In my freetime, I enjoy falling of the grid, most likely then being bike-packing in the mountains.
