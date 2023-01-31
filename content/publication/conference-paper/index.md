@@ -19,21 +19,21 @@ url_pdf: ""
 publication_types:
   - "3"
 authors:
-  - adminChristianL.MüllerNikiKilbertus
+  - Elisabeth Ailer, Christian L. Müller, Niki Kilbertus
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
-author_notes: []
+#url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_project: ""
+#author_notes: []
 publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+#url_video: https://youtube.com
 publication: arxiv Preprint
-featured: false
-date: 2013-07-01T00:00:00.000Z
-url_slides: ""
+#featured: false
+date: 2021-06-21T00:00:00.000Z
+#url_slides: ""
 title: A causal view on compositional data
 tags:
-  - Causality;CompositionalData
+  - Causality, Compositional Data
 projects: []
 image:
   caption: ""
@@ -41,7 +41,7 @@ image:
   preview_only: false
   filename: null
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: https://arxiv.org/pdf/2106.11234
+# url_poster: ""
+url_code: https://arxiv.org/pdf/2106.11234
+doi: 2106.11234
 ---
