@@ -134,7 +134,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Looking forward to your message! :smiley:
+        Looking forward to your message :-)
       # Contact (add or remove contact options as necessary)
       #email: elisabeth.ailer@helmholtz-muenchen.de
       #phone: 888 888 88 88

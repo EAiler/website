@@ -1,19 +1,9 @@
 ---
-abstract: Many scientific datasets are compositional in nature. Important
-  examples include species abundances in ecology, rock compositions in geology,
-  topic compositions in large-scale text corpora, and sequencing count data in
-  molecular biology. Here, we provide a causal view on compositional data in an
-  instrumental variable setting where the composition acts as the cause. First,
-  we crisply articulate potential pitfalls for practitioners regarding the
-  interpretation of compositional causes from the viewpoint of interventions and
-  warn against attributing causal meaning to common summary statistics such as
-  diversity indices. We then advocate for and develop multivariate methods using
-  statistical data transformations and regression techniques that take the
-  special structure of the compositional sample space into account. In a
-  comparative analysis on synthetic and real data we show the advantages and
-  limitations of our proposal. We posit that our framework provides a useful
-  starting point and guidance for valid and informative cause-effect estimation
-  in the context of compositional data.
+abstract: **Motivation:** 
+Supervised learning, such as regression and classification, is an essential tool for analyzing modern high-throughput sequencing data, for example in microbiome research. However, due to the compositionality and sparsity, existing techniques are often inadequate. Either they rely on extensions of the linear log-contrast model (which adjust for compositionality but cannot account for complex signals or sparsity) or they are based on black-box machine learning methods (which may capture useful signals, but lack interpretability due to the compositionality).\
+**Results:** We propose *KernelBiome*, a kernel-based nonparametric regression and classification framework for compositional data. It is tailored to sparse compositional data and is able to incorporate prior knowledge, such as phylogenetic structure.
+*KernelBiome* captures complex signals, including in the zero-structure, while automatically adapting model complexity. We demonstrate on par or improved predictive performance compared with state-of-the-art machine learning methods on $33$ publicly available microbiome datasets. Additionally, our framework provides two key advantages: (i) We propose two novel quantities to interpret contributions of individual components and prove that they consistently estimate average perturbation effects of the conditional mean, extending the interpretability of linear log-contrast coefficients to nonparametric models. (ii) 
+We show that the connection between kernels and distances aids interpretability and provides a data-driven embedding that can augment further analysis.
 slides: ""
 url_pdf: ""
 publication_types:
