@@ -12,6 +12,8 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+    design:
+      columns: '2'
   - block: experience
     content:
       title: Experience
@@ -60,8 +62,8 @@ sections:
           location: Munich
           date_start: '2016-01-01'
           date_end: '2016-09-30'
-          description: 
-              Research on Value-at-Risk Decomposition and Sensitivities.
+          #description: 
+          #    Research on Value-at-Risk Decomposition and Sensitivities.
         - title: Intern
           company: risklab (Allianz Global Investors)
           company_url: ''
