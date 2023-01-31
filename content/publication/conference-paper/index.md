@@ -25,7 +25,7 @@ summary: ""
 #url_project: ""
 #author_notes: []
 publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_source: https://arxiv.org/pdf/2106.11234
 #url_video: https://youtube.com
 publication: arxiv Preprint
 #featured: false
@@ -42,6 +42,6 @@ image:
   filename: null
 publishDate: 2017-01-01T00:00:00.000Z
 # url_poster: ""
-url_code: https://arxiv.org/pdf/2106.11234
+url_code: https://github.com/EAiler/comp-iv
 doi: 2106.11234
 ---
