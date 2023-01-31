@@ -61,14 +61,13 @@ I am a PhD candidate at HelmholtzAI in Munich, under the supervision of [Niki Ki
 \
 Industry experience taught me that machine learning algorithms are still lacking acceptance and fail to provide much desired explanations. My research concentrates on bringing a causal view point to machine learning. More precisely, those interests include questions around cause-effect estimation, how experiments can help to inform our algorithms and how the definition of causality might bring us closer to a proper understanding of the world.
 
-**Interests:**
+**Interests:** \
 Causality, Interpretable Machine Learning, Experimental Design, Causality in Time Series
 
 **Education:**
-
-<div align="left">
-:blue_book: PhD candidate (ongoing), *Helmholtz AI, Munich*
-:blue_book: M.Sc. in Financial Mathematics, *Technical University Munich (TUM), 2016*
-:blue_book: Semester Exchange, *Complutense Madrid, 2013*
-:blue_book: B.S. in Mathematics, *Technical University Munich (TUM), 2013*
+<div align="left"> 
+:blue_book: PhD candidate (ongoing), <i>Helmholtz AI, Munich</i> <br>
+:blue_book: M.Sc. in Financial Mathematics, <i>Technical University Munich (TUM), 2016</i><br>
+:blue_book: Semester Exchange, <i>Complutense Madrid, 2013</i><br>
+:blue_book: B.S. in Mathematics, <i>Technical University Munich (TUM), 2013</i><br>
 </div>
