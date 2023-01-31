@@ -33,7 +33,7 @@ date: 2021-06-21T00:00:00.000Z
 #url_slides: ""
 title: A causal view on compositional data
 tags:
-  - Causality; Compositional Data
+  - [Causality, Compositional Data]
 projects: []
 image:
   caption: ""
