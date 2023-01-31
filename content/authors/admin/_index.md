@@ -21,7 +21,7 @@ social:
     link: https://github.com/eailer
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/elisabeth-ailer
+    link: https://linkedin.com/in/elisabeth-ailer
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -30,14 +30,14 @@ education:
   courses: []
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon: 
+last_name: Ailer
 role: Doctoral Candidate at HelmholtzAI
 highlight_name: true
 title: Elisabeth Ailer
-first_name: Alice
+first_name: Elisabeth
 email: ""
 ---
 I am a PhD candidate at HelmholtzAI in Munich, under the supervision of Niki Kilbertus. \
 \
-Formerly working in the industry, I felt that machine learning is still missing \*something\*. My motivation stems from bringing a causal view point to machine learning in general. More precisely, my research interests include questions around cause-effect estimation, but also how experiments can help to inform our algorithms and how the definition of causality might bring us closer to a proper understanding of the world.In my freetime, I enjoy falling of the grid, most likely then being bike-packing in the mountains.
+Industry experience taught me that machine learning algorithms are still lacking acceptance and fail to provide much desired explanations. My motivation thus stems from bringing a causal view point to machine learning in general. More precisely, my research interests include questions around cause-effect estimation, but also how experiments can help to inform our algorithms and how the definition of causality might bring us closer to a proper understanding of the world.In my freetime, I enjoy falling of the grid, most likely then being bike-packing in the mountains.
