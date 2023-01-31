@@ -33,15 +33,15 @@ date: 2021-06-21T00:00:00.000Z
 #url_slides: ""
 title: A causal view on compositional data
 tags:
-  - Causality, Compositional Data
+  - Causality; Compositional Data
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: null
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-06-21T00:00:00.000Z
 # url_poster: ""
 url_code: https://github.com/EAiler/comp-iv
-doi: 2106.11234
+#doi: 2106.11234
 ---

@@ -15,6 +15,7 @@ sections:
     design:
       columns: '2'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -96,6 +97,7 @@ sections:
   #    columns: '2'
   #    view: card
   - block: collection
+    id: publications
     content:
       title: Publications
   #    text: |-
@@ -132,7 +134,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Looking forward to your message! :smiley:
       # Contact (add or remove contact options as necessary)
       #email: elisabeth.ailer@helmholtz-muenchen.de
       #phone: 888 888 88 88
