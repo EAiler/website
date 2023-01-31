@@ -61,14 +61,14 @@ sections:
           description: 
               Research on Value-at-Risk Decomposition and Sensitivities.
         - title: Intern
-          company: risklab (Horváth&Partners)
+          company: risklab (Allianz Global Investors)
           company_url: ''
           #company_logo: risklab
           location: Munich
           date_start: '2015-10-01'
           date_end: '2015-12-31'
-          description: 
-              Risk-Management Overlay.
+          #description: 
+          #    Risk-Management Overlay.
         - title: Intern
           company: PriceWaterhouseCoopers
           company_url: ''
@@ -76,50 +76,50 @@ sections:
           location: Munich
           date_start: '2015-04-01'
           date_end: '2015-05-31'
-          description: 
-              Risk-Management Overlay.
+          #description: 
+          #    Risk-Management Overlay.
     design:
       columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  #- block: collection
+  #  id: featured
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    columns: '2'
+  #    view: card
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+  #    text: |-
+  #      {{% callout note %}}
+  #      Quickly discover relevant content by [filtering publications](./publication/).
+  #      {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #      exclude_featured: true
+  #  design:
+  #    columns: '2'
+  #    view: citation
+  #- block: collection
+  #  id: talks
+  #  content:
+  #    title: Recent & Upcoming Talks
+  #    filters:
+  #      folders:
+  #        - event
+  #  design:
+  #    columns: '2'
+  #    view: compact
+  #- block: tag_cloud
+  #  content:
+  #    title: Popular Topics
+  #  design:
+  #    columns: '2'
   - block: contact
     id: contact
     content:
@@ -128,7 +128,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: elisabeth.ailer@helmholtz-muenchen.de
+      #email: elisabeth.ailer@helmholtz-muenchen.de
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:
