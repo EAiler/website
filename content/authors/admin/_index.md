@@ -1,7 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include causality in general and the connection between causality and experimental design.
 interests: []
 social:
   - icon: envelope
