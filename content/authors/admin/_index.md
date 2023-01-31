@@ -67,6 +67,6 @@ Causality, Interpretable Machine Learning, Experimental Design, Causality in Tim
 
 **Education:**\
   :blue_book: PhD candidate (ongoing), *Helmholtz AI, Munich* \
-  :blue_book: M.Sc. in Financial Mathematics, *Technical University Munich (TUM)* (2016) \
-  :blue_book: B.S. in Mathematics, *Technical University Munich (TUM)* (2013) \
-  :blue_book: Semester Exchange, *Complutense Madrid* (2013)
+  :blue_book: M.Sc. in Financial Mathematics, *Technical University Munich (TUM), 2016* \
+  :blue_book: Semester Exchange, *Complutense Madrid, 2013* \
+  :blue_book: B.S. in Mathematics, *Technical University Munich (TUM), 2013*
