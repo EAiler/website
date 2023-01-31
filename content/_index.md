@@ -31,8 +31,8 @@ sections:
           location: Munich
           date_start: '2020-11-01'
           date_end: ''
-          description:
-              Working on causal inference in general.
+          #description:
+          #    Causal Inference
         - title: Data Scientist and Machine Learning Researcher
           company: Steering Lab (Horváth&Partners)
           company_url: ''
@@ -40,8 +40,9 @@ sections:
           location: Munich
           date_start: '2019-03-01'
           date_end: '2020-10-31'
-          description: 
-              Unsupervised time series classification and prediction.
+          #description: 
+          #    - Unsupervised time series classification and prediction
+              #- 
         - title: Quantitative Financial Analyst
           company: risklab (Allianz Global Investors)
           company_url: ''
@@ -49,8 +50,9 @@ sections:
           location: Munich
           date_start: '2016-10-01'
           date_end: '2019-02-28'
-          description: 
-              Automation of asset allocation.
+          #description: 
+          #    - Automation of strategic asset allocation.
+          #    - Portfolio optimization between liabilities and asset development.
         - title: Research Intern
           company: MEAG
           company_url: ''
@@ -93,7 +95,7 @@ sections:
   #    view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
   #    text: |-
   #      {{% callout note %}}
   #      Quickly discover relevant content by [filtering publications](./publication/).
@@ -101,6 +103,8 @@ sections:
       filters:
         folders:
           - publication
+    design:
+      columns: '2'
   #      exclude_featured: true
   #  design:
   #    columns: '2'
