@@ -24,9 +24,27 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations: []
+organizations:
+  - name: HelmholtzAI
+    url: https://www.helmholtz.ai/
+interests:
+- Causality
+- Interpretable Machine Learning
+- Experimental Design
+- Causality in Time Series
 education:
-  courses: []
+  courses: 
+  - course: PhD candidate (ongoing)
+    institution: Helmholtz AI, Munich
+  - course: M.Sc. in Financial Mathematics
+    institution: Technical University Munich (TUM)
+    year: 2016
+  - course: B.S. in Mathematics 
+    institution: Technical University Munich (TUM)
+    year: 2013
+  - course: Semester Exchange
+    institution: Complutense Madrid
+    year: 2013
 superuser: true
 status:
   icon: 
@@ -37,6 +55,6 @@ title: Elisabeth Ailer
 first_name: Elisabeth
 email: ""
 ---
-I am a PhD candidate at HelmholtzAI in Munich, under the supervision of Niki Kilbertus. \
+I am a PhD candidate at HelmholtzAI in Munich, under the supervision of [Niki Kilbertus](https://nikikilbertus.info). \
 \
-Industry experience taught me that machine learning algorithms are still lacking acceptance and fail to provide much desired explanations. My motivation thus stems from bringing a causal view point to machine learning in general. More precisely, my research interests include questions around cause-effect estimation, but also how experiments can help to inform our algorithms and how the definition of causality might bring us closer to a proper understanding of the world.In my freetime, I enjoy falling of the grid, most likely then being bike-packing in the mountains.
+Industry experience taught me that machine learning algorithms are still lacking acceptance and fail to provide much desired explanations. My research concentrates on bringing a causal view point to machine learning. More precisely, those interests include questions around cause-effect estimation, how experiments can help to inform our algorithms and how the definition of causality might bring us closer to a proper understanding of the world.
