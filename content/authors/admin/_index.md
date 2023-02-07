@@ -59,7 +59,7 @@ email: ""
 ---
 I am a PhD candidate at HelmholtzAI in Munich, under the supervision of [Niki Kilbertus](https://nikikilbertus.info). \
 \
-Industry experience taught me that machine learning algorithms are still lacking acceptance and fail to provide much desired explanations. My research concentrates on bringing a causal view point to machine learning. More precisely, those interests include questions around cause-effect estimation, how experiments can help to inform our algorithms and how the definition of causality might bring us closer to a proper understanding of the world.
+Industry experience taught me that machine learning algorithms are still lacking acceptance and fail to provide much desired explanations. My research concentrates on bringing a causal view point to machine learning. More precisely, those interests include questions around cause-effect estimation, how experiments can help to inform our algorithms and how different definitions of causality might bring us closer to interpretable machine learning.
 
 **Interests:** \
 Causality, Interpretable Machine Learning, Experimental Design, Causality in Time Series
