@@ -57,7 +57,7 @@ title: Elisabeth Ailer
 first_name: Elisabeth
 email: ""
 ---
-I am a PhD candidate at HelmholtzAI in Munich, under the supervision of [Niki Kilbertus](https://nikikilbertus.info). \
+I am a PhD candidate at HelmholtzAI in Munich, under the supervision of [Niki Kilbertus](https://nikikilbertus.info).
 
 
 My research is centered on statistical challenges and methodological problems at the **intersection of causal inference and machine learning**. My work so far addresses challenges in instrumental variable settings (compositionality of the data, underspecification) and has applications in experimental design settings and biological data. Current projects include questions such as how experimental design can enable a causal interpretation of the latent space and how we can estimate nonlinear functions for cause-effect estimation... Further interests (among many others) include whether experimental design can enable causal explanations in general and how a change of the definition of *causality* might affect the design of our algorithms. 
