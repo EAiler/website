@@ -19,29 +19,29 @@ url_pdf: ""
 publication_types:
   - "3"
 authors:
-  - Elisabeth Ailer, Christian L. Müller, Niki Kilbertus
+  - Elisabeth Ailer, Jason Hartford, Niki Kilbertus
 summary: ""
 #url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_project: ""
 #author_notes: []
 publication_short: ""
-url_source: https://arxiv.org/pdf/2106.11234
+url_source: https://arxiv.org/pdf/2302.05684
 #url_video: https://youtube.com
 publication: arxiv Preprint
 #featured: false
-date: 2021-06-21T00:00:00.000Z
+date: 2023-02-11T00:00:00.000Z
 #url_slides: ""
-title: A causal view on compositional data
+title: Sequential Underspecified Instrument Selection for Cause-Effect Estimation
 tags:
-  - [Causality, Compositional Data]
+  - [Causality, Instrumental Variables, Underspecification, Cause-Effect Estimation, Experimental Design]
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: null
-publishDate: 2021-06-21T00:00:00.000Z
+publishDate: 2023-02-11T00:00:00.000Z
 # url_poster: ""
-url_code: https://github.com/EAiler/comp-iv
+url_code: https://github.com/EAiler/underspecified-iv
 #doi: 2106.11234
 ---
