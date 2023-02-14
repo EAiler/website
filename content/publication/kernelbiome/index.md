@@ -23,7 +23,7 @@ date: 2022-11-11T00:00:00.000Z
 #url_slides: ""
 title: Supervised Learning and Model Analysis with Compositional Data
 tags:
-  - Kernel Methods; Compositional Data
+  - [Kernel Methods, Compositional Data]
 projects: []
 image:
   caption: ""
