@@ -15,11 +15,11 @@ summary: ""
 #url_project: ""
 #author_notes: []
 publication_short: ""
-url_source: https://arxiv.org/pdf/2205.07271
+url_source: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011240
 #url_video: https://youtube.com
-publication: arxiv Preprint
+publication: 
 #featured: false
-date: 2022-11-11T00:00:00.000Z
+date: 2023-06-11T00:00:00.000Z
 #url_slides: ""
 title: Supervised Learning and Model Analysis with Compositional Data
 tags:
@@ -30,7 +30,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-publishDate: 2022-11-11T00:00:00.000Z
+publishDate: 2023-06-11T00:00:00.000Z
 # url_poster: ""
 url_code: https://github.com/shimenghuang/KernelBiome
 #doi: 2106.11234

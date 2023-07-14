@@ -27,7 +27,7 @@ summary: ""
 publication_short: ""
 url_source: https://arxiv.org/pdf/2302.05684
 #url_video: https://youtube.com
-publication: arxiv Preprint
+publication: ICML 2023
 #featured: false
 date: 2023-02-11T00:00:00.000Z
 #url_slides: ""
