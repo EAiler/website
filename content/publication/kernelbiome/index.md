@@ -17,7 +17,7 @@ summary: ""
 publication_short: ""
 url_source: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011240
 #url_video: https://youtube.com
-publication: 
+publication: PLOS Computational Biology
 #featured: false
 date: 2023-06-11T00:00:00.000Z
 #url_slides: ""
