@@ -1,10 +1,13 @@
-@misc{https://doi.org/10.48550/arxiv.2302.05684,
-  doi = {10.48550/ARXIV.2302.05684},
-  url = {https://arxiv.org/abs/2302.05684},
-  author = {Ailer, Elisabeth and Hartford, Jason and Kilbertus, Niki},
-  keywords = {Methodology (stat.ME), Machine Learning (cs.LG), Machine Learning (stat.ML), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Sequential Underspecified Instrument Selection for Cause-Effect Estimation},
-  publisher = {arXiv},
-  year = {2023},
-  copyright = {arXiv.org perpetual, non-exclusive license}
-}}
+@inproceedings{ailer2023sequential,
+author = {Ailer, Elisabeth and Hartford, Jason and Kilbertus, Niki},
+title = {Sequential underspecified instrument selection for cause-effect estimation},
+year = {2023},
+publisher = {JMLR.org},
+abstract = {Instrumental variable (IV) methods are used to estimate causal effects in settings with unobserved confounding, where we cannot directly experiment on the treatment variable. Instruments are variables which only affect the outcome indirectly via the treatment variable(s). Most IV applications focus on low-dimensional treatments and crucially require at least as many instruments as treatments. This assumption is restrictive: in the natural sciences we often seek to infer causal effects of high-dimensional treatments (e.g., the effect of gene expressions or microbiota on health and disease), but can only run few experiments with a limited number of instruments (e.g., drugs or antibiotics). In such underspecified problems, the full treatment effect is not identifiable in a single experiment even in the linear case. We show that one can still reliably recover the projection of the treatment effect onto the instrumented subspace and develop techniques to consistently combine such partial estimates from different sets of instruments. We then leverage our combined estimators in an algorithm that iteratively proposes the most informative instruments at each round of experimentation to maximize the overall information about the full causal effect.},
+booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+articleno = {19},
+numpages = {13},
+location = {Honolulu, Hawaii, USA},
+series = {ICML'23}
+}
+

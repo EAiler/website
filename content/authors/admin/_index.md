@@ -60,9 +60,9 @@ email: ""
 I am a PhD candidate at HelmholtzAI in Munich, under the supervision of [Niki Kilbertus](https://nikikilbertus.info).
 
 
-My research is centered on statistical challenges and methodological problems at the **intersection of causal inference and machine learning**. My work so far addresses challenges in instrumental variable settings (compositionality of the data, underspecification) and has applications in experimental design settings and biological data. Current projects include questions such as how experimental design can enable a causal interpretation of the latent space and how we can estimate nonlinear functions for cause-effect estimation... Further interests (among many others) include whether experimental design can enable causal explanations in general and how a change of the definition of *causality* might affect the design of our algorithms. 
+My research is centered on statistical challenges and methodological problems at the **intersection of causal inference and machine learning**. My work addresses challenges in instrumental variable settings with applications in experimental design settings and biological data. Current projects include the circular question how experimental design can enable causal explanations and how we can let causal explanations drive the experimental design. 
 
-My motivation towards *causal machine learning* stems mainly from industry experience. In general everybody is looking for explanations and reason behind different kind of outcomes, but sometimes without taking notice how much of the so-called explanations are based on pure correlation. My hope is to contribute (at least a tiny bit) towards a better understanding of causality and to help drawing a bit more of a distinct line between where (a) a correlation based algorithm is already enough and (b) where a causal approach can add real value.
+My motivation towards *causal machine learning* stems from my industry experience. Everybody is looking for explanations and reasons behind different kind of outcomes, sometimes without taking notice how much of the so-called explanations are based on pure correlation. I am curious how we can gain better insights from our data that we might actually call causal at some point.
 
 **Interests:** \
 Causality, Interpretable Machine Learning, Experimental Design, Causality in Time Series
