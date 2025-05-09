@@ -1,12 +1,13 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include causality in general and the connection between causality and experimental design.
+bio: My research interests is focused at the intersection of causal inference and AI algorithms.
 
 interests:
 - Causality
-- Interpretable Machine Learning
-- Experimental Design
-- Causality in Time Series
+- Interpretable AI
+- Sequential Experimental Design
+- Causality in Generative AI
+- Causal Concepts in Computer Vision
 
 education:
   courses: 
@@ -60,12 +61,12 @@ email: ""
 I am a PhD candidate at HelmholtzAI in Munich, under the supervision of [Niki Kilbertus](https://nikikilbertus.info).
 
 
-My research is centered on statistical challenges and methodological problems at the **intersection of causal inference and machine learning**. My work addresses challenges in instrumental variable settings with applications in experimental design settings and biological data. Current projects include the circular question how experimental design can enable causal explanations and how we can let causal explanations drive the experimental design. 
+My research is centered on statistical challenges and methodological problems at the **intersection of causal inference and AI**. My work addresses challenges in instrumental variable settings with applications in sequential experimental design settings and biological data. Current projects include the circular question how experimental design can enable causal explanations and how we can let causal explanations drive the experimental design. 
 
-My motivation towards *causal machine learning* stems from my industry experience. Everybody is looking for explanations and reasons behind different kind of outcomes, sometimes without taking notice how much of the so-called explanations are based on pure correlation. I am curious how we can gain better insights from our data that we might actually call causal at some point.
+My motivation towards *causal AI* stems from my industry experience. Everybody is looking for explanations and reasons behind different kind of outcomes, sometimes without taking notice how much of the so-called explanations are based on pure correlation. I am curious how we can gain better insights from our data that we might actually call causal at some point.
 
 **Interests:** \
-Causality, Interpretable Machine Learning, Experimental Design, Causality in Time Series
+Causality, Sequential Experiment Design, Causal AI, Causal Concepts in Deep Learning and Generative Algorithms
 
 **Education:**
 <div align="left"> 

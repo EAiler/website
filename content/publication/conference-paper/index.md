@@ -25,13 +25,13 @@ summary: ""
 #url_project: ""
 #author_notes: []
 publication_short: ""
-url_source: https://arxiv.org/pdf/2106.11234
+url_source: https://www.nature.com/articles/s41598-025-89204-9.pdf
 #url_video: https://youtube.com
 publication: arxiv Preprint
 #featured: false
 date: 2021-06-21T00:00:00.000Z
 #url_slides: ""
-title: A causal view on compositional data
+title: Instrumental Variable Estimation for Compositional Treatments
 tags:
   - [Causality, Compositional Data]
 projects: []
